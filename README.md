@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Project-content
+A realtor-site.
+This site loads contents gotten from bayut API on repidapi.com and display them on the Browser.
+ChakraUi was used in this project to style some components and make our site responsive.
+
 ## Getting Started
 
 First, run the development server:
